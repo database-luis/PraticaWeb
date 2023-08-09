@@ -1,0 +1,18 @@
+h1 {
+    font-size: 32px;
+    color: #007F72;
+    font-family: sans-serif;
+}
+
+#outro {
+    font-size: 15px;
+    color: blue;
+    font-family: Arial, Helvetica, sans-serifs;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    border-top: 1px solid #ff0;
+    border-bottom: 3px solid #007F72;
+}
